@@ -1,5 +1,6 @@
 
 # Redux Store
+# University of Toronto Coding BootCamp Challenge Week 22 - State/Redux
 Challenge was to refactor the Shop-Shop online store from Context-API to Redux
 
 
